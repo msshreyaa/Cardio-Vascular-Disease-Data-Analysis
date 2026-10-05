@@ -114,7 +114,7 @@ The dashboard is interactive. After opening it in Power BI Desktop:
 
 ## 📂 Dataset
 
-BRFSS and CDC (2021), via Kaggle: [paste your Kaggle link here](https://www.kaggle.com)
+BRFSS and CDC (2021), via Kaggle:(https://www.kaggle.com)
 
 ---
 
