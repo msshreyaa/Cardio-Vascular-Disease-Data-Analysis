@@ -2,8 +2,7 @@
 
 Analysis of 5,033 patient records to find key health metrics and risk factors linked to cardiovascular disease, using Python and Power BI.
 
-<img width="643" height="382" alt="image" src="https://github.com/user-attachments/assets/80262ca1-f508-4727-a322-d34482e04b39" />
-## Key Insights
+dashboard-overview.png ## Key Insights
 - Insight 1
 - Insight 2
 - Insight 3
