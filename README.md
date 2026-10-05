@@ -1,2 +1,27 @@
-# Cardio-Vascular-Disease-Data-Analysis
-This repository features a Cardiovascular Disease (CVD) data analysis project using Python and Power BI. The dataset consists of 5033 rows, providing insights into key health metrics and risk factors. A detailed Power BI dashboard and a presentation summarize the findings effectively.
+# Cardiovascular Disease Data Analysis
+
+Analysis of 5,033 patient records to find key health metrics and risk factors linked to cardiovascular disease, using Python and Power BI.
+
+## Key Insights
+- Insight 1
+- Insight 2
+- Insight 3
+
+## Tools Used
+- Python (Pandas, Matplotlib, Seaborn, Scikit-learn): data cleaning, EDA and regression model
+- Power BI: interactive dashboard
+- PowerPoint: findings presentation
+
+## Dataset
+- File: `heartdata.csv` (5,033 rows)
+
+## Project Files
+| File | Contents |
+|---|---|
+| `CVD - Python.ipynb` | Python analysis |
+| `CVD report.pbix` | Power BI dashboard |
+| `CVD presentation.pptx` | Final presentation |
+| `heartdata.csv` | Dataset |
+
+## Author
+Shreya M.S.
